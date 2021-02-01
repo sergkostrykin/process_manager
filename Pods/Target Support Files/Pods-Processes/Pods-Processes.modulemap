@@ -1,0 +1,6 @@
+framework module Pods_Processes {
+  umbrella header "Pods-Processes-umbrella.h"
+
+  export *
+  module * { export * }
+}
